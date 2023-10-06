@@ -1,2 +1,2 @@
 # DevTeam
-LLM back Dev Team agents based on Autogen 
+LLM backed Dev Team agents based on Autogen 
